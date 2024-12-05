@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState } from "react";
+import { createContext,  useState } from "react";
 import { food_list } from "../Assets/assets";
 
 export let StoreContext = createContext(null);
